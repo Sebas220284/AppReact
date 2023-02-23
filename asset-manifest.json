@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AppReact/static/css/main.de0c3729.css",
-    "main.js": "/AppReact/static/js/main.b4515a98.js",
+    "main.js": "/AppReact/static/js/main.e4e3d57a.js",
     "static/css/23.6018237c.chunk.css": "/AppReact/static/css/23.6018237c.chunk.css",
     "static/js/23.e0560e3a.chunk.js": "/AppReact/static/js/23.e0560e3a.chunk.js",
     "static/css/1.9134d537.chunk.css": "/AppReact/static/css/1.9134d537.chunk.css",
@@ -22,7 +22,7 @@
     "static/media/sebas2-2-3.jpg": "/AppReact/static/media/sebas2-2-3.893c89c28b8f33d9257b.jpg",
     "index.html": "/AppReact/index.html",
     "main.de0c3729.css.map": "/AppReact/static/css/main.de0c3729.css.map",
-    "main.b4515a98.js.map": "/AppReact/static/js/main.b4515a98.js.map",
+    "main.e4e3d57a.js.map": "/AppReact/static/js/main.e4e3d57a.js.map",
     "23.6018237c.chunk.css.map": "/AppReact/static/css/23.6018237c.chunk.css.map",
     "23.e0560e3a.chunk.js.map": "/AppReact/static/js/23.e0560e3a.chunk.js.map",
     "1.9134d537.chunk.css.map": "/AppReact/static/css/1.9134d537.chunk.css.map",
@@ -38,6 +38,6 @@
   },
   "entrypoints": [
     "static/css/main.de0c3729.css",
-    "static/js/main.b4515a98.js"
+    "static/js/main.e4e3d57a.js"
   ]
 }
