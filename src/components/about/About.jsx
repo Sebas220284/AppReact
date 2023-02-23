@@ -22,11 +22,7 @@ function About() {
               <h5>EXPERENCIAS</h5>
               <small>2+ años trabajando</small>
             </article>
-            <article className='about_card'>
-              <FiUsers className='about_icon'/>
-              <h5>CLIENTES</h5>
-              <small>55 alrededor del pais.</small>
-            </article>
+            
             <article className='about_card'> 
               <RiFolder3Line className='about_icon'/>
               <h5>PROYECTOS</h5>

@@ -46,61 +46,32 @@ function Services() {
           <ul className="service_lista">
             <li>
               <BsCheck className="service_list-icons" />
-              <p>Definir el tipo de usuario al que se dirige el producto.</p>
+              <p>Amplio conocimiento funcional y experiencia en codificación.
+</p>
             </li>
             <li>
               <BsCheck className="service_list-icons" />
-              <p>Investigar y analizar el modelo de interacción.</p>
+              <p>Experiencia en gestión de equipo.</p>
             </li>
             <li>
               <BsCheck className="service_list-icons" />
-              <p>Identificar patrones de comportamiento y establecer mejoras en base a ellos.</p>
+              <p>Conocimiento básico en optimización de motores de búsqueda.</p>
             </li>
             <li>
               <BsCheck className="service_list-icons" />
-              <p>Colaborar con el equipo de contenidos y de desarrollo.</p>
+              <p>Solucionar problemas del sitio web.</p>
             </li>
             <li>
               <BsCheck className="service_list-icons" />
-              <p>Combinar la estrategia y el desarrollo de UX con el trabajo del departamento de UI.</p>
+              <p>Mantener y actualizar el sitio web.</p>
             </li>
             <li>
               <BsCheck className="service_list-icons" />
-              <p>Generar un vínculo sólido entre el producto y el usuario.</p>
+              <p>Hacer prototipos del sitio web.</p>
             </li>
           </ul>
         </article>
-        <article className="service">
-          <div className="service_head">
-            <h3>DESARROLADOR APLICACIONES IOS</h3>
-          </div>
-          <ul className="service_lista">
-            <li>
-              <BsCheck className="service_list-icons" />
-              <p>Definir el tipo de usuario al que se dirige el producto.</p>
-            </li>
-            <li>
-              <BsCheck className="service_list-icons" />
-              <p>Investigar y analizar el modelo de interacción.</p>
-            </li>
-            <li>
-              <BsCheck className="service_list-icons" />
-              <p>Identificar patrones de comportamiento y establecer mejoras en base a ellos.</p>
-            </li>
-            <li>
-              <BsCheck className="service_list-icons" />
-              <p>Colaborar con el equipo de contenidos y de desarrollo.</p>
-            </li>
-            <li>
-              <BsCheck className="service_list-icons" />
-              <p>Combinar la estrategia y el desarrollo de UX con el trabajo del departamento de UI.</p>
-            </li>
-            <li>
-              <BsCheck className="service_list-icons" />
-              <p>Generar un vínculo sólido entre el producto y el usuario.</p>
-            </li>
-          </ul>
-        </article>
+        
       </div>
     </section>
   );
