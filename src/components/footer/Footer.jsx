@@ -34,7 +34,7 @@ function Footer() {
     </ul>
     <div>
     <ul className="social-icons">
-      <li><a href=""><i><FaWhatsapp/></i></a></li>
+      <li><a href="https://api.whatsapp.com/send?phone=%2B529615600952&text=Quiero+implementar+un+nuevo+nivel+a+mi+negocio."><i><FaWhatsapp/></i></a></li>
       <li> <a href=""><i><BsInstagram/></i></a></li>
     
      <li><a href=""><i><FiFacebook/></i></a></li> 

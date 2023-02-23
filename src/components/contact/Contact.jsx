@@ -44,13 +44,13 @@ const sendEmail = (e) => {
    <FaWhatsapp className='contact_opcion-icon'/>
       <h4>WhatsApp</h4>
       <h5>9615600952</h5>
-      <a href="https://api.whatsapp.com/send?phone9615600952" target="_blank">Enviar Mensaje</a>
+      <a href="https://api.whatsapp.com/send?phone=%2B529615600952&text=Quiero+implementar+un+nuevo+nivel+a+mi+negocio." target="_blank">Enviar Mensaje</a>
     </article>
     <article className='contact_opcion'>
  <BsMessenger className='contact_opcion-icon'/>
       <h4>Messenger</h4>
       <h5>Sebastian Vazquez</h5>
-      <a href="https://api.whatsapp.com/send?phone=%2B529615600952&text=Quiero+implementar+un+nuevo+nivel+a+mi+negocio." target="_blank">Enviar Mensaje</a>
+      <a href="" target="_blank">Enviar Mensaje</a>
     </article>
     </div>
 
