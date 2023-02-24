@@ -43,7 +43,7 @@ const sendEmail = (e) => {
     <article className='contact_opcion'>
    <FaWhatsapp className='contact_opcion-icon'/>
       <h4>WhatsApp</h4>
-      <h5>9615600952</h5>
+      <h5>9615600952</h5> 
       <a href="https://api.whatsapp.com/send?phone=%2B529615600952&text=Quiero+implementar+un+nuevo+nivel+a+mi+negocio." target="_blank">Enviar Mensaje</a>
     </article>
     <article className='contact_opcion'>
