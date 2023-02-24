@@ -2,7 +2,7 @@
   "name": "web-portafolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Sebas220284.github.io/AppReact",
+  "homepage": "https://github.com/Sebas220284/ReactApp.git",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@testing-library/jest-dom": "^5.16.5",
