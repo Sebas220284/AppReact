@@ -8,7 +8,7 @@ function Experencias() {
       <h2>MI EXPERENCIA</h2>
       <div className="container experiencia_container">
         <div className="experencia_frontend">
-          <h3>DESARROLADOR FRONTEND</h3>
+          <h3>DESARROLLADOR FRONTEND</h3>
           <div className="experencia_content">
             <article className="experencia_detalles">
               <BsFillPatchCheckFill/>
@@ -50,7 +50,7 @@ function Experencias() {
         </div>
         <div className="experencias_backend">
 
-        <h3>DESARROLADOR BACKEND</h3>
+        <h3>DESARROLLADOR BACKEND</h3>
           <div className="experencia_content">
             <article className="experencia_detalles">
               <BsFillPatchCheckFill/>

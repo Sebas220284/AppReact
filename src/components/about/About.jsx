@@ -29,7 +29,7 @@ function About() {
               <small>2+ proyectos terminados.</small>
             </article>
           </div>
-          <p className='about_content'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus consequuntur porro fuga adipisci vel suscipit quasi, eligendi voluptates dolorem enim et quas placeat nostrum eius libero alias praesentium animi quibusdam.</p>
+          <p className='about_content'></p>
           <a href="#contact" className='btn btn-primary'>Contactame</a>
         </div>
       </div>
