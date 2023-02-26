@@ -5,7 +5,8 @@ import {FaWhatsapp}  from "react-icons/fa";
 const HeaderSocial = () => {
   return (
     <div className="header_social">
-      <a href="https://linkedin.com" target="_blank">
+      <a href="https://www.linkedin.com/in/sebastian-vazquez-204a53267
+" target="_blank">
         <BsLinkedin/>
       </a>
       <a href="https://github.com" target="_blank"><FaGithub/></a>
